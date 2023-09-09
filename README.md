@@ -1,6 +1,6 @@
 # yo im tr5h i may do code but join my discord💀
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakerman5&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tr5h&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
