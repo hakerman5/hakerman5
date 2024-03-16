@@ -1,6 +1,6 @@
 # yo im wood i no nothing about coding but just watch me make messes of code
 
-# (https://linktr.ee/woo.d)
+![:name](https://linktr.ee/woo.d)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tr5h&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
