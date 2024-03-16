@@ -1,4 +1,4 @@
-# yo im tr5h i may do code but join my discord💀
+# yo im wood i no nothing about coding but just watch me make messes of code
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tr5h&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
